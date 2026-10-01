@@ -1,0 +1,13 @@
+name: somatic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26
+  - pandas=2.2
+  - rdkit=2024.03
+  - scikit-learn=1.5
+  - joblib=1.4
+  - pip
+  - pip:
+      - unimol-tools==0.1.4.post1

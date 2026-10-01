@@ -1,0 +1,2 @@
+record_id,entity_id,enzyme_family,enzyme,smiles,candidate_atoms,positive_atoms,source_id,split,group_id
+example_001,molecule_001,CYP,3A4,CCO,0;1;2,1,replace_with_source_identifier,train,scaffold_001
